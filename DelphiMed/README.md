@@ -20,4 +20,24 @@ The different levels have to be normalized and added to the list of alpha values
 
 <img src="https://user-images.githubusercontent.com/77675540/161242979-53a4b457-b108-4930-a6d2-c77ff5f077f9.png" width="300">
 
+## Members 
+- Farai Mazhandu (Mentor)
+- Ken Tanaka (Mentor)
+- Cyril Karam
+- Saimon Tsegai
+- Nadeen Tarek
+- Qasem Ahmad
+- Omar Rayyan
+- Edgar Palomino
+- Dhurba Tripathi
+
+## Solution
+Under the hood, the program is minimzing the cost function below so that an optimal hosptital can be matched for the patient in an emergency case:
 <img src="https://user-images.githubusercontent.com/77675540/161243001-dd55ec93-3927-47fa-b168-d37a9851344a.png" width="300">
+
+Using classical computers, it is not feasible to minimize the cost function for a large number of patients given multiple different parameters. Our approach uses quantum annealing algorithm to minimize the cost function to find betas (matching) given the alphas: (calculated from various paramters like distance to hospital, equipment availability score and so on). A typical runflow interface looks like the following: 
+<img src="https://user-images.githubusercontent.com/30380639/161259922-ef8f074e-09f1-477c-866e-099e234b590b.PNG" width="400">
+After the program finishes running, the assignments are shown as below:
+<img src="https://user-images.githubusercontent.com/30380639/161260095-c353ba02-4a16-4850-b770-a9846d9dfcb9.png" width="600">
+
+
