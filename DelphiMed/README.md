@@ -1,3 +1,7 @@
+# DelphiMed
+
+<img src="https://user-images.githubusercontent.com/77675540/161239871-ec92dc9e-6c51-4d02-badd-fc994becf16c.png" width="300">
+
 This document was worked on during the 10th Annual NYUAD Hackathon as a Quantum Computing Solution for Social Good.
 This is a solution for the assignment of different patients to different hospitals. The decision takes into consideration many criteria such as the distance between the location of the patient to each hospital and the availability of the hospital in terms of number of available beds and the severity of the patient's case.
 
