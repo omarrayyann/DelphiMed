@@ -42,12 +42,14 @@ Under the hood, the program is minimzing the cost function below so that an opti
 \
 Using classical computers, it is not feasible to minimize the cost function for a large number of patients given multiple different parameters. Our approach uses quantum annealing algorithm to minimize the cost function to find betas (matching) given the alphas: (calculated from various paramters like distance to hospital, equipment availability score and so on). A typical runflow interface looks like the following: 
 <img src="https://user-images.githubusercontent.com/30380639/161259922-ef8f074e-09f1-477c-866e-099e234b590b.PNG" width="400">
+\
 *Image 1: Selecting number of patients and number of hospitals*
 \
 \
 After the program finishes running, the assignments are shown as below:
 \
 <img src="https://user-images.githubusercontent.com/30380639/161260095-c353ba02-4a16-4850-b770-a9846d9dfcb9.png" width="600">
+\
 *Image 2: Final output after algorithm runs*
 
 ## Demo
