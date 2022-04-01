@@ -18,3 +18,6 @@ The values in the list of equipment E can be calculated based on the following l
     - Paramedic Intercept
 The different levels have to be normalized and added to the list of alpha values.
 
+<img src="https://user-images.githubusercontent.com/77675540/161242979-53a4b457-b108-4930-a6d2-c77ff5f077f9.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/77675540/161243001-dd55ec93-3927-47fa-b168-d37a9851344a.png" width="300">
