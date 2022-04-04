@@ -20,17 +20,6 @@ The different levels have to be normalized and added to the list of alpha values
 
 <img src="https://user-images.githubusercontent.com/77675540/161242979-53a4b457-b108-4930-a6d2-c77ff5f077f9.png" width="300">
 
-## Members 
-- Farai Mazhandu (Mentor)
-- Ken Tanaka (Mentor)
-- [Cyril Karam](https://github.com/CyrilKaram)
-- [Saimon Tsegai](https://github.com/49Simon)
-- [Nadeen Tarek]()
-- [Qasem Ahmad]()
-- [Omar Rayyan](https://github.com/omarrayyann)
-- [Edgar Palomino]()
-- [Dhurba Tripathi](https://github.com/dktpt44)
-
 ## Problem statement
 The world is not prepared when an emergency calamity hits. Data at hand shows that in every 15 years, there is a new pandemic. When covid-19 broke out, in Tokyo alone, 160,000 people were harmed because they were unable to be offloaded to A&E. In a very busy hospital, only 5 calls were received out of 200 calls made in one day because of hospital's unavailability. 10,000 calls were received by all hospital on average in Tokyo in one day. There was a need to map people to availble emergency health care center while also providing an optimal path. Our team looked into the problem to map emergency health care seekers to respective hospitals based on availability and necessary conditions for the patient.
 
@@ -54,5 +43,17 @@ After the program finishes running, the assignments are shown as below:
 
 ## Demo
 <a href="https://www.youtube.com/watch?v=LFYPa5picmk"> Link </a>
+
+
+## Members 
+- Farai Mazhandu (Mentor)
+- Ken Tanaka (Mentor)
+- [Cyril Karam](https://github.com/CyrilKaram)
+- [Saimon Tsegai](https://github.com/49Simon)
+- [Nadeen Tarek]()
+- [Qasem Ahmad]()
+- [Omar Rayyan](https://github.com/omarrayyann)
+- [Edgar Palomino]()
+- [Dhurba Tripathi](https://github.com/dktpt44)
 
 This project was created at the [2022 NYUAD Hackathon](https://nyuad.nyu.edu/en/events/2022/march/nyuad-hackathon-event.html) for Social Good in the Arab World: Focusing on Quantum Computing (QC). 
