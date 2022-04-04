@@ -55,4 +55,4 @@ After the program finishes running, the assignments are shown as below:
 ## Demo
 <a href="https://www.youtube.com/watch?v=LFYPa5picmk"> Link </a>
 
-
+This project was created at the [2022 NYUAD Hackathon](https://nyuad.nyu.edu/en/events/2022/march/nyuad-hackathon-event.html) for Social Good in the Arab World: Focusing on Quantum Computing (QC). 
