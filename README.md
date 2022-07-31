@@ -5,7 +5,7 @@
 This document was created during the **10th Annual NYUAD Hackathon** as a Quantum Computer Solution for Social Good.
 The solution is to assign patients to hospitals based on their characteristics. The decision is influenced by many factors, including the distance between the patient's location and each hospital, the number of beds available at that hospital and the severity of the patient's condition.
 
-The values in the list of equipment E can be calculated based on the following levels medical need and severity:
+The values in the list of equipment can be calculated based on the following levels medical need and severity:
 - Primary care hospital:
     - Basic Live support (BLS)
     - Basic Live support (BLS) emergency
